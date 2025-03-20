@@ -1,4 +1,4 @@
-# IEEGworkbench
+# IEEGworkbench v0.1.7
 A matlab toolbox for processing SEEG data
 
 ⚠️ Project Status: Active Development
